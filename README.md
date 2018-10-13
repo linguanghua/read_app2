@@ -120,7 +120,7 @@
 
 #####iPhone
  ![iPhone效果](https://github.com/linguanghua/read_app2/blob/master/app_file/iphone-1.png "Android效果")
- ![iPhone效果](https://github.com/linguanghua/read_app2/blob/master/app_file/iphone-2.png "Android效果")
+ ![iPhone效果](https://github.com/linguanghua/read_app2/blob/master/app_file/iphone-2.jpeg "Android效果")
  <br />
  #####Android
  ![Android效果](https://github.com/linguanghua/read_app2/blob/master/app_file/android-1.png "Android效果")
