@@ -18,6 +18,11 @@
  
  # 技术
  
+ 技术网站：<br />
+ &emsp;&emsp;1.[Flutter中文网](https://flutterchina.club)<br />
+ &emsp;&emsp;2.[Flutter官网](https://flutter.io/get-started/install/)<br />
+
+
  下面简单说说技术点。
  
  &emsp;&emsp;学习Flutter也有段时间了，但是一直没有想到用它来写个什么，这次有机会就直接用它来写了一个阅读工具。
