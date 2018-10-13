@@ -116,9 +116,13 @@
 
 这里主要看***setState***方法，这个方法调用会为State对象触发build()方法，从而导致对UI的更新。 
 
-应用还比较简单，后续再慢慢更新。
- ![iPhone效果](https://github.com/linguanghua/read_app2/blob/master/app_file/iphone-1.png ''Android效果'')
- ![iPhone效果](https://github.com/linguanghua/read_app2/blob/master/app_file/iphone-2.png ''Android效果'')
- ![Android效果](https://github.com/linguanghua/read_app2/blob/master/app_file/android-1.png ''Android效果'')
+应用还比较简单，后续再慢慢更新。<br />
+
+#####iPhone
+ ![iPhone效果](https://github.com/linguanghua/read_app2/blob/master/app_file/iphone-1.png "Android效果")
+ ![iPhone效果](https://github.com/linguanghua/read_app2/blob/master/app_file/iphone-2.png "Android效果")
+ <br />
+ #####Android
+ ![Android效果](https://github.com/linguanghua/read_app2/blob/master/app_file/android-1.png "Android效果")
  
  
