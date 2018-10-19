@@ -25,8 +25,7 @@
  &emsp;&emsp;1.[Flutter中文网](https://flutterchina.club)<br />
  &emsp;&emsp;2.[Flutter官网](https://flutter.io/get-started/install/)<br />
 
-
-####一、文件加载
+#### 一、文件加载
  
 &emsp;&emsp;这个阅读应用读取的是txt文件，本来按照写Android的思路是直接在res目录下创建资源目录，然后用Java的文件读写操作去读取文件内容的。但是在Flutter当中，按照Flutter存放资源位置规则，我在根目录下新建txt目录，把文件放进去，却是没办法拿到这个资源目录。查看官网文档发现Flutter在代码中获取文件目录现在支持使用**PathProvider** 插件的两个目录：
  >临时目录: 系统可随时清除的临时目录（缓存）。在iOS上，这对应于NSTemporaryDirectory() 返回的值。在Android上，这是getCacheDir()返回的值。 
@@ -66,7 +65,7 @@
 ```
 &emsp;&emsp;获取到文章内容之后，我将文章切割成几个段落，然后放到ListView中，方便滑动显示。**then**方法是异步操作Future的一个方法，它在等待**await**操作返回之后执行。
  
-####二、ListView
+#### 二、ListView
 &emsp;&emsp;这个项目由两个地方使用到了ListView：第一处：显示文章名字；第二处，显示文章内容；
 &emsp;&emsp;因为文章是一次性加载出来，为了能够更好的滑动，这里需要使用到ListView。这里我将文件分割成了多个段落，切割之后，放到再ListView里面。
 &emsp;&emsp;**以第一处为例，Flutter创建可以无限滑动的ListView的方法：**
