@@ -145,7 +145,7 @@
 
 >Route和 Navigator。 一个route是一个屏幕或页面的抽象，Navigator是管理route的Widget。Navigator可以通过route入栈和出栈来实现页面之间的跳转。
 
-##最后的效果
+## 最后的效果
 #### iPhone
  ![iPhone效果](https://github.com/linguanghua/read_app2/blob/master/app_file/iphone-1.png "Android效果")
  &emsp;&emsp;&emsp;&emsp;
