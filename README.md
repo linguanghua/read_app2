@@ -66,7 +66,7 @@
     );
  ```
  
- &emsp;&emsp;这里还不太懂具体的构建原理。大概看意思是**padding**是内边距，**itemBuilder**应该ListView的每个item创建了，Flutter中分割线很好使用，新建一个
+ &emsp;&emsp;**padding**是内边距，**itemBuilder**应该ListView的每个item创建了，Flutter中分割线很好使用，新建一个
  **Divider** 的实例就可以了。 <br />
  
  下面看_buildRow 方法：<br />
